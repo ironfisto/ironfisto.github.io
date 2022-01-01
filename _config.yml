@@ -24,10 +24,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Mukul Lohar is Sr Application Security Engineer at TOKOPEDIA. Feature in Facebook,Google,
   Tokopedia,Keybase,Yahoo and many more Hacker hall of fame for reporting security vulnerabilty.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lohar.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ironfisto
 github_username:  ironfisto
 
+#OG image 
+image:
+ path : mukul.png
+ height: 100
+ width: 100
+ alt: Mukul Lohar
 # Build settings
 theme: minima
 plugins:
