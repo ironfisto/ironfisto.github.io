@@ -31,7 +31,6 @@ I am keen intrested in building and hacking the future technology in the blockch
   - Smart Contract
   - Secure System Design
   - Explore Hacking in Undiscovered areas
----
 
 ---
 
