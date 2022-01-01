@@ -34,7 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-url: "https://3aa9-122-170-41-252.ngrok.io" # the base hostname & protocol for your site
+url: "https://ironfisto.github.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
 
