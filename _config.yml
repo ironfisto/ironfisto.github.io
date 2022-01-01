@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-url: "https://ironfisto.github.com" # the base hostname & protocol for your site
+url: "https://lohar.me" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
 
