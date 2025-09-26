@@ -19,3 +19,28 @@ I am keen intrested in building and hacking the future technology in the blockch
   - Explore Hacking in Undiscovered areas
 
 ---
+
+**WORK HISTORY**
+
+<ul class="work-history">
+  <li>
+    <span class="work-history__position">Product Security Engineer</span>
+    <span class="work-history__company">ServiceNow</span>
+    <span class="work-history__meta">Hyderabad · 2023 — Present</span>
+  </li>
+  <li>
+    <span class="work-history__position">Product Security Engineer</span>
+    <span class="work-history__company">Tokopedia</span>
+    <span class="work-history__meta">Hyderabad · 2021 — 2023</span>
+  </li>
+  <li>
+    <span class="work-history__position">Product Security Engineer</span>
+    <span class="work-history__company">LoginSoft</span>
+    <span class="work-history__meta">Hyderabad · 2021 — 2021</span>
+  </li>
+  <li>
+    <span class="work-history__position">Product Security Engineer</span>
+    <span class="work-history__company">Orbigo</span>
+    <span class="work-history__meta">Ahmedabad · 2018 — 2021</span>
+  </li>
+</ul>
