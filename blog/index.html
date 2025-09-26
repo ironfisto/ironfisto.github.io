@@ -1,0 +1,24 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+
+{% assign posts = site.posts %}
+{% if posts and posts.size > 0 %}
+  <div class="post-list">
+    {% for post in posts %}
+      <article class="post-row">
+        <div class="post-row-top">
+          <a class="post-row-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="post-row-date">{{ post.date | date: "%B %d, %Y" }}</span>
+        </div>
+        {% if post.excerpt %}
+        <p class="post-row-summary">{{ post.excerpt | strip_html | truncate: 180 }}</p>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
+{% else %}
+  <p class="post-empty">No posts yet — check back soon.</p>
+{% endif %}

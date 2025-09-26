@@ -35,12 +35,9 @@ image:
  width: 100
  alt: Mukul Lohar
 # Build settings
-theme: minima
+
 plugins:
   - jekyll-feed
-
-url: "https://lohar.me" # the base hostname & protocol for your site
-plugins:
   - jekyll-sitemap
 
 # Exclude from processing.
