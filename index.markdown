@@ -39,7 +39,7 @@ I am a Senior Product Security Engineer with expertise in threat modeling, secur
     <span class="work-history__meta">Hyderabad · 2021 — 2023</span>
   </li>
   <li>
-    <span class="work-history__position">SDE - Security Enginee</span>
+    <span class="work-history__position">SDE - Security Engineer</span>
     <span class="work-history__company">LoginSoft</span>
     <span class="work-history__meta">Hyderabad · 2021 — 2021</span>
   </li>
