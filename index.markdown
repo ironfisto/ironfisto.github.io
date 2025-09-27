@@ -7,6 +7,7 @@ layout: default
 Hi, I am Mukul Lohar 👋 
 
 I am a Senior Product Security Engineer with expertise in threat modeling, secure code review, and penetration testing across large-scale cloud and on-prem systems. Beyond my professional work, I am deeply passionate about the intersection of space security and emerging technologies in AR/VR, exploring how immersive systems and critical infrastructures can be secured for the future. With a proven track record in bug bounty research for companies like Facebook and Google, I bring both hands-on technical depth and forward-looking curiosity to every challenge I take on.
+
 ---
 
 **EXPLORING**
