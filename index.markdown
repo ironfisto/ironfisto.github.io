@@ -15,7 +15,7 @@ I am a Senior Product Security Engineer with expertise in threat modeling, secur
   - Smart Contract
   - Secure System Design
   - Explore Hacking in Undiscovered areas
- - 📚 Reading
+- 📚 Reading
   - Designing Secure Software by Loren Kohnfelder
   - Hacking The Art Of Exploitation By jon erickson
   - Mastering Linux Security by Donald A. Tevault
