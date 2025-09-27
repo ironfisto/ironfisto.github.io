@@ -82,7 +82,7 @@ https://domain.tld/?source=4vyryrtfhf
 https://domain.tld/fast/4vyryrtfhf
 ```
 
-*(image / screenshot placeholder — shows endpoint returning the victim UUID)*
+![victim uuid leak](/assets/image.png)
 
 * That endpoint returned the victim’s UUID.
 * With Google dorks I enumerated many `source` values, fetched the `/fast/{source}` endpoint, got UUIDs, and then used my password-reset token with those UUIDs to takeover accounts.
