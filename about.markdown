@@ -3,7 +3,7 @@ layout: page
 title: About Mukul
 permalink: /about/
 ---
-> I’m Mukul Lohar, a Senior Application Security Engineer at Tokopedia focused on securing ambitious products while enabling fast-moving teams to ship with confidence.
+> I’m Mukul Lohar, a Sr Product Security Engineer at ServiceNow focused on securing ambitious products while enabling fast-moving teams to ship with confidence.
 
 ---
 
@@ -15,7 +15,7 @@ permalink: /about/
 ---
 
 ### What I Work With
-- **Languages:** Go, Python, Scala, JavaScript for rapid tooling.
+- **Languages:** Go, Python, Scala, JavaScript, Rust, Assembly.
 - **Cloud & Platforms:** AWS, Google Cloud, Kubernetes, Terraform.
 - **Security Domains:** Web & API security, cloud posture, incident response, secure architecture reviews.
 
