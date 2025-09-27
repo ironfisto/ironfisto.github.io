@@ -6,10 +6,7 @@ layout: default
 ---
 Hi, I am Mukul Lohar 👋 
 
-🌍Currently, working as Senior Application Security Engineer at [**TOKOPEDIA**](https://tokopedia.com)
-
-I am keen intrested in building and hacking the future technology in the blockchain and multiplanetary systems.I am looking for opportunity where I can be involved in designing high distributed secure application architecture.
-
+I am a Senior Product Security Engineer with expertise in threat modeling, secure code review, and penetration testing across large-scale cloud and on-prem systems. Beyond my professional work, I am deeply passionate about the intersection of space security and emerging technologies in AR/VR, exploring how immersive systems and critical infrastructures can be secured for the future. With a proven track record in bug bounty research for companies like Facebook and Google, I bring both hands-on technical depth and forward-looking curiosity to every challenge I take on.
 ---
 
 **EXPLORING**
@@ -17,6 +14,13 @@ I am keen intrested in building and hacking the future technology in the blockch
   - Smart Contract
   - Secure System Design
   - Explore Hacking in Undiscovered areas
+ - 📚 Reading
+  - Designing Secure Software by Loren Kohnfelder
+  - Hacking The Art Of Exploitation By jon erickson
+  - Mastering Linux Security by Donald A. Tevault
+  - Zero Trust Netwrok by Evan Gilman & Doug Bart
+  - DNS Security Managemnet 
+  - Building Multi-Tenant SaaS Architectures by Tod Golding
 
 ---
 
@@ -24,22 +28,22 @@ I am keen intrested in building and hacking the future technology in the blockch
 
 <ul class="work-history">
   <li>
-    <span class="work-history__position">Product Security Engineer</span>
+    <span class="work-history__position">Sr Product Security Engineer</span>
     <span class="work-history__company">ServiceNow</span>
     <span class="work-history__meta">Hyderabad · 2023 — Present</span>
   </li>
   <li>
-    <span class="work-history__position">Product Security Engineer</span>
+    <span class="work-history__position">Sr. Application Security Engineer</span>
     <span class="work-history__company">Tokopedia</span>
     <span class="work-history__meta">Hyderabad · 2021 — 2023</span>
   </li>
   <li>
-    <span class="work-history__position">Product Security Engineer</span>
+    <span class="work-history__position">SDE - Security Enginee</span>
     <span class="work-history__company">LoginSoft</span>
     <span class="work-history__meta">Hyderabad · 2021 — 2021</span>
   </li>
   <li>
-    <span class="work-history__position">Product Security Engineer</span>
+    <span class="work-history__position">Jr Software Engineer</span>
     <span class="work-history__company">Orbigo</span>
     <span class="work-history__meta">Ahmedabad · 2018 — 2021</span>
   </li>
