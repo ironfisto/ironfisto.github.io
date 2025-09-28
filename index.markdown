@@ -11,10 +11,17 @@ I am a Senior Product Security Engineer with expertise in threat modeling, secur
 ---
 
 **EXPLORING**
+
+- 🗃️ Open Source 
+  - [Renix](https://github.com/ironfisto/renix) 
+
 - 🌱 I’m currently learning
   - Smart Contract
   - Secure System Design
   - Explore Hacking in Undiscovered areas
+  - Assembly 
+  - AR/VR 
+  - ThreeJS , Android XR
 - 📚 Reading
   - Designing Secure Software by Loren Kohnfelder
   - Hacking The Art Of Exploitation By jon erickson
