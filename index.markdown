@@ -25,10 +25,13 @@ I am a Senior Product Security Engineer with expertise in threat modeling, secur
 - 📚 Reading
   - Designing Secure Software by Loren Kohnfelder
   - Hacking The Art Of Exploitation By jon erickson
+  - Practical Reverse Engineering By Bruce Dang
   - Mastering Linux Security by Donald A. Tevault
   - Zero Trust Netwrok by Evan Gilman & Doug Bart
   - DNS Security Managemnet 
   - Building Multi-Tenant SaaS Architectures by Tod Golding
+- 📚 RFC
+  - [The MD5 Message-Digest Algorithm](https://www.ietf.org/rfc/rfc1321.txt)
 
 ---
 
