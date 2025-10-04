@@ -30,8 +30,9 @@ I am a Senior Product Security Engineer with expertise in threat modeling, secur
   - Zero Trust Netwrok by Evan Gilman & Doug Bart
   - DNS Security Managemnet 
   - Building Multi-Tenant SaaS Architectures by Tod Golding
-- 📚 RFC
+- 📚 RFC & Papers
   - [The MD5 Message-Digest Algorithm](https://www.ietf.org/rfc/rfc1321.txt)
+  - [CyberGym: Evaluating AI Agents' Cybersecurity Capabilities with Real-World Vulnerabilities at Scale](https://arxiv.org/abs/2506.02548)
 
 ---
 
