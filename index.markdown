@@ -26,6 +26,7 @@ I am a Senior Product Security Engineer with expertise in threat modeling, secur
   - Designing Secure Software by Loren Kohnfelder
   - Hacking The Art Of Exploitation By jon erickson
   - Practical Reverse Engineering By Bruce Dang
+  - Programming from the Ground Up By Jonathan Bartlett
   - Mastering Linux Security by Donald A. Tevault
   - Zero Trust Netwrok by Evan Gilman & Doug Bart
   - DNS Security Managemnet 
