@@ -36,6 +36,7 @@ I am a Senior Product Security Engineer with expertise in threat modeling, secur
   - [CyberGym: Evaluating AI Agents' Cybersecurity Capabilities with Real-World Vulnerabilities at Scale](https://arxiv.org/abs/2506.02548)
   - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
   - [Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24278-paper.pdf)
+  - [kvm: the Linux Virtual Machine Monitor](https://hobby.esselfe.ca/docs/kvm-monitor.pdf)
 
 ---
 
