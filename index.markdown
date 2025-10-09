@@ -37,6 +37,7 @@ I am a Senior Product Security Engineer with expertise in threat modeling, secur
   - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
   - [Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24278-paper.pdf)
   - [kvm: the Linux Virtual Machine Monitor](https://hobby.esselfe.ca/docs/kvm-monitor.pdf)
+  - [Securing the AI Software Supply Chain](https://research.google/pubs/securing-the-ai-software-supply-chain/)
 
 ---
 
