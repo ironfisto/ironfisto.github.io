@@ -12,8 +12,6 @@ I am a Senior Product Security Engineer with expertise in threat modeling, secur
 
 **EXPLORING**
 
-- 🗃️ Open Source 
-  - [Renix](https://github.com/ironfisto/renix) 
 
 - 🌱 I’m currently learning
   - Smart Contract
@@ -25,6 +23,9 @@ I am a Senior Product Security Engineer with expertise in threat modeling, secur
 
 - 📚 CVE : Security Research
   - [CVE-2025-66021](https://nvd.nist.gov/vuln/detail/CVE-2025-66021) on XSS bypass on OWASP Java HTML Sanitizer Library. [POC](https://github.com/OWASP/java-html-sanitizer/security/advisories/GHSA-g9gq-3pfx-2gw2)
+
+- 🗃️ Open Source 
+  - [Renix](https://github.com/ironfisto/renix) 
 - 📚 Reading
   - Designing Secure Software by Loren Kohnfelder
   - Hacking The Art Of Exploitation By jon erickson
