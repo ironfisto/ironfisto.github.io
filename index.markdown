@@ -22,6 +22,9 @@ I am a Senior Product Security Engineer with expertise in threat modeling, secur
   - Assembly 
   - AR/VR 
   - ThreeJS , Android XR
+
+- 📚 CVE : Security Research
+  - [CVE-2025-66021](https://nvd.nist.gov/vuln/detail/CVE-2025-66021) on XSS bypass on OWASP Java HTML Sanitizer Library. [POC](https://github.com/OWASP/java-html-sanitizer/security/advisories/GHSA-g9gq-3pfx-2gw2)
 - 📚 Reading
   - Designing Secure Software by Loren Kohnfelder
   - Hacking The Art Of Exploitation By jon erickson
